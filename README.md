@@ -3,6 +3,8 @@ singleRAM_FPGA
 
 ![image](https://user-images.githubusercontent.com/105381968/196094571-45b3506b-c908-4817-9302-15fa199a5889.png)
 
+![image](https://user-images.githubusercontent.com/105381968/196098173-5701ba75-4512-433f-a42f-d28c36a74924.png)
+
 
 FPGA 이용 Single RAm
 
